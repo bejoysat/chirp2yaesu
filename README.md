@@ -1,4 +1,4 @@
-This code converts Chirp export file in CSV format to Yaesu's import CSV format. (I only tested this on [FTM-400XDR application](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=249&encProdID=227201D29C822AEFF8482F3367495319&DivisionID=65&isArchived=0))
+This code converts Chirp export file in CSV format to Yaesu's import CSV format. (I only tested this on [FTM-300DR Programming software ADMS-12 (Ver.1.0.0.0) application](https://www.yaesu.com/downloadFile.cfm?FileID=16512&FileCatID=42&FileName=FTM%2D300D%5FADMS%2D12%5FENG.zip&FileContentType=application%2Fx%2Dzip%2Dcompressed))
 
 Use this code at your own discretion. It's not tested on all Yaesu programs.
 
